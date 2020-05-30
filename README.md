@@ -1,2 +1,3 @@
 # Puzzles
-A collection of Algorithmics Puzzles I solved or interested in
+A collection of Algorithmics Puzzles I am interested in solved and Unsolved
+
